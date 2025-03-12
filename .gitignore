@@ -1,0 +1,27 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar archivos de usuario y configuración de IDE
+*.user
+*.suo
+*.vs/
+.vscode/
+
+# Ignorar archivos de salida de compilación
+*.exe
+*.dll
+*.pdb
+*.xml
+
+# Ignorar archivos de NuGet
+packages/
+*.nupkg
+*.nuspec
+
+# Ignorar archivos de logs y temporales
+*.log
+*.tmp
